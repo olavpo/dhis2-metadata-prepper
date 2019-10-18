@@ -1,0 +1,19 @@
+{
+  "name": "dhis2-metadata-prepper",
+  "version": "1.0.0",
+  "description": "Tool preparing metadata file for import into DHIS2.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olav Poppe",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "q": "^1.5.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.0"
+  }
+}
